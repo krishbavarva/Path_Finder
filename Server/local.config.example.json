@@ -1,0 +1,6 @@
+{
+  "_info": "Arduino on USB to this PC — set arduinoPort to Device Manager COM (e.g. COM3). Copy to local.config.json.",
+  "arduinoPort": "COM3",
+  "baudRate": 9600,
+  "webPort": 3000
+}

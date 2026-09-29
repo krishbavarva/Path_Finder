@@ -1,0 +1,14 @@
+{
+  "name": "garbage-truck-server",
+  "version": "1.0.0",
+  "description": "PC bridge: HTTP for Unity, USB serial (COM) for Arduino — no Wi‑Fi on the board",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "serialport": "^12.0.0",
+    "@serialport/parser-readline": "^12.0.0"
+  }
+}
